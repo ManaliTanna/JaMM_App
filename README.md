@@ -16,21 +16,21 @@
 Software used: Figma
 
 #### Links for the submission: 
- - For a public link to the design file .[click here].(https://drive.google.com/file/d/1E56hJyy-5uh0CcQOfjyYHFKEUYQ9SL0P/view?usp=sharing)
+ - For a public link to the design file : https://drive.google.com/file/d/1E56hJyy-5uh0CcQOfjyYHFKEUYQ9SL0P/view?usp=sharing
 
 
-### Write-up on the approach taken for UI design* (required)
+### Write-up on the approach taken for UI design
 ---
 This is a highly communicative platform, with creative features, posting and streaming options, which is not just limited to gamers of one community but all communities. Gamers can now make entertaining live streams and posts all with one touch on their mobile screens. We have made the theme and the color scheme of the app attractive to its users.The dark-mode with a striking blue and orange contast is pleasing to the eyes. It has an incredibly simple navigation and easy to read fonts and icons. With our unique app, not only does the popularity of the gamers increase but also the of the games they play. We are aiming to provide a wonderful user experience.
 
 
-## APP DEV SUBMISSION*
+## APP DEV SUBMISSION
 Language/framework used: Flutter
 
 **Compulsary Requirements:**
-- An Youtube video link explaining all the features of the developed application : < link to demo here >
+- An Youtube video link explaining all the features of the developed application : https://youtu.be/b__gGfDY2Us
 - The apk of the application is in the root directory of this repository.
-- Source code for your entire application should be in the "/App Development" directory
+- Source code for the entire application should is the "/App Development/jamm" directory
 
 ---
 Developed for AppSprint'20.
