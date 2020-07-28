@@ -10,20 +10,18 @@
 - Manali Tanna
 
 ## IDEA or PROBLEM STATEMENT
-These few lines gives a small gist of  the problem statement we are trying to solve and the frameworks have used to implement the project. (10-50 lines)
+ In the current era, gaming has become immensely popular, but very few platforms that unite and lets the gamers communicate and share with the world their gaming skills. There exist very few game networking mobile applications and none that provide a user friendly way to live stream. To tackle this issue, we have designed a unique gaming social networking app that allows its users to post insightful media, host as well as watch live streams and stay in touch with gamers all over the world through instant messagaing. This microblogging App uses flutter, an open-source UI software development kit created by Google.  
 
 ## UI DESIGN SUBMISSION
 Software used: Figma
 
 #### Links for the submission: 
- - (**Required**) A public link to the design file 
-	 (or)
-	Push the design source file into the "/UI-Design" directory.
--  (**Optional**) A youtube video link explaining your prototype
+ - For a public link to the design file .[click here].( https://drive.google.com/file/ d/1E56hJyy-5uh0CcQOfjyYHFKEUYQ9SL0P/view?usp=sharing)
+
 
 ### Write-up on the approach taken for UI design* (required)
 ---
-A small write up on the approach taken to implement the User interface of the application. This can include the features you would consider will be beneficial to the user, importance of the color themes chosen, how your app would stand out etc. (50-100 words)
+This is a highly communicative platform, with creative features, posting and streaming options, which is not just limited to gamers of one community but all communities. Gamers can now make entertaining live streams and posts all with one touch on their mobile screens. We have made the theme and the color scheme of the app attractive to its users.The dark-mode with a striking blue and orange contast is pleasing to the eyes. It has an incredibly simple navigation and easy to read fonts and icons. With our unique app, not only does the popularity of the gamers increase but also the of the games they play. We are aiming to provide a wonderful user experience.
 
 
 ## APP DEV SUBMISSION*
