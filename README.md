@@ -16,7 +16,7 @@
 Software used: Figma
 
 #### Links for the submission: 
- - For a public link to the design file .[click here].( https://drive.google.com/file/ d/1E56hJyy-5uh0CcQOfjyYHFKEUYQ9SL0P/view?usp=sharing)
+ - For a public link to the design file .[click here].(https://drive.google.com/file/d/1E56hJyy-5uh0CcQOfjyYHFKEUYQ9SL0P/view?usp=sharing)
 
 
 ### Write-up on the approach taken for UI design* (required)
